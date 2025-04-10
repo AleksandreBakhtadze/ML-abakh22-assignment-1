@@ -52,5 +52,33 @@ model_inference.ipynb
   პლატფორმაზე ატვირთულია თითოეული მოდელის პარამეტრები და მეტრიკები. რომლებიდანაც საუკეთესო აღმოჩნდა GradientBoostingRegressor რომელმაც მოგვცა ყველაზე დაბალი RMSE 0.135.
   ასევე ატვირთული მაქვს RFE ნახაზები მაგრამ თოთოეული მოდელისთვის ცალკე ექსპერიმენტებში ატვირთვა მოვახერხე მხოლოდ.  
 
+  მოდელების ბმულები:
 
+  LinearRegression    
+  
+  https://dagshub.com/AleksandreBakhtadze/ML-abakh22-assignment-1.mlflow/#/experiments/0/runs/e33ca8af037543beb64dfca58d3b0072
+
+  RandomForestRegressor   
+  
+  https://dagshub.com/AleksandreBakhtadze/ML-abakh22-assignment-1.mlflow/#/experiments/2/runs/7ff319b99d0546968037d65eb5b826bb
+
+  RandomForestRegressor RFE plots :)  
+
+  https://dagshub.com/AleksandreBakhtadze/ML-abakh22-assignment-1.mlflow/#/experiments/1/runs/672fd3e8f5804df9addc4020e46f831c/artifacts
+
+  XGBRegressor  
+
+  https://dagshub.com/AleksandreBakhtadze/ML-abakh22-assignment-1.mlflow/#/experiments/3/runs/ac345f35d0844ef497d5ab3ef6878c05
+
+  XGBRegressor RFE plots
+
+  https://dagshub.com/AleksandreBakhtadze/ML-abakh22-assignment-1.mlflow/#/experiments/1/runs/5670aebf3a114d28b78714438c40a3df
+
+  GradientBoostingRegressor    
+
+  https://dagshub.com/AleksandreBakhtadze/ML-abakh22-assignment-1.mlflow/#/experiments/5/runs/88bcc47dda454073b1f79521098bdd08
+  
+   GradientBoostingRegressor  RFE plots   
+
+   https://dagshub.com/AleksandreBakhtadze/ML-abakh22-assignment-1.mlflow/#/experiments/4/runs/e33f7a91483543edae114739635c64f0
   
